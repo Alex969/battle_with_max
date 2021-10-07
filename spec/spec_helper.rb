@@ -26,3 +26,5 @@ require 'capybara/rspec'
 require 'rspec'
 
 Capybara.app = Battle
+
+#trying push
